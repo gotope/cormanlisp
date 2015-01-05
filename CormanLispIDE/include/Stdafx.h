@@ -10,6 +10,7 @@
 //
 
 #define VC_EXTRALEAN
-#define WINVER 0x500	// require Windows 2000 or later
+#define WINVER 0x501 //WINXP
+#define _WIN32_WINNT 0x501
 
 #include <afxwin.h>		 // MFC core and standard components

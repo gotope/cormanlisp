@@ -1,0 +1,21 @@
+# Output
+CormanLisp.img
+Lisp Worksheet
+*.exe
+*.dll
+*.exp
+bin/
+
+# Visual Studio temporary/user files
+*.suo
+*.filters
+*.user
+*.sdf
+*.opensdf
+
+# Visual studio project upgrade files
+Backup/
+UpgradeLog.htm
+
+
+
